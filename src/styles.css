@@ -1,1 +1,10 @@
-/* You can add global styles to this file, and also import other style files */
+/* Imports */
+@import "~bootstrap/dist/css/bootstrap.css";
+
+/* Global Styles */
+body {
+    padding-top: 80px; 
+}
+.starter-template {
+     text-align: center;
+ }
